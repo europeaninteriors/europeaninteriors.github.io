@@ -1,16 +1,9 @@
-/* https://newtodesing.com/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-
-
 /*Load google font*/
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
 
 
 
-/* Reset Styles */
+/* Reset Styles  */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -453,3 +446,12 @@ li .description {
 
 
 /* End of all :P*/
+
+img.ri
+{
+	
+	position: relative;
+	max-width: 95%;
+	border-radius: 30px;
+	
+}
